@@ -1,0 +1,2 @@
+.nav{display:flex;justify-content:center;background-color:#ded0c3}.nav__list{display:flex;list-style:none}.nav__link{margin-right:20px;text-decoration:none;color:#000}.nav__link--active{color:#ad3939;text-decoration:underline}table{border-collapse:collapse;width:100%}table,td,th{border:1px solid #000;cursor:pointer}th{background-color:#ddd0c3}.person__male{color:#2424bd}.person__female{color:#cc3636}.person__active{background-color:#fae6d4}
+/*# sourceMappingURL=main.2d715584.chunk.css.map */
